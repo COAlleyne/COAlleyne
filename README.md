@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/COAlleyne/LABURL)
+  - [Active Directory Home Lab](https://github.com/COAlleyne/ActiveDirectoryLab)
   - [Hashing Algorithms File Integrity Monitor (FIM)](https://github.com/COAlleyne/LABURL)
 <h2>🎓Certifications </h2>
 Google Cybersecurity Professional Ceritificate (https://www.credly.com/badges/52e3addd-5113-4d4f-8b70-c37708593f54/public_url)
