@@ -10,10 +10,6 @@
 
 [Google Cybersecurity Professional Ceritificate](https://www.credly.com/badges/52e3addd-5113-4d4f-8b70-c37708593f54/public_url)
 
-<h2>📺 YouTube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 
 <h2> 🤳 Connect with me:</h2>
 
