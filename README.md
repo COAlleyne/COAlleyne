@@ -4,7 +4,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/COAlleyne/ActiveDirectoryLab)
-  - [Hashing Algorithms File Integrity Monitor (FIM)](https://github.com/COAlleyne/LABURL)
+  - [Hashing Algorithms File Integrity Monitor (FIM)](https://github.com/COAlleyne/FIM)
     
 <h2>🎓Certifications </h2>
 
