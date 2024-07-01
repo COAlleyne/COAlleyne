@@ -4,6 +4,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/COAlleyne/ActiveDirectoryLab)
+- <b>Hashing</b>
   - [Hashing Algorithms File Integrity Monitor (FIM)](https://github.com/COAlleyne/Powershell-Hash-Scripting)
    
 <h2>🎓Certifications </h2>
